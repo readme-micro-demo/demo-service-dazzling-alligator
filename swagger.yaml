@@ -34,7 +34,7 @@ paths:
     post:
       tags:
         - pet
-      summary: Add a new pet to the store
+      summary: Add a new pet to the store rafe
       description: ''
       operationId: addPet
       requestBody:
@@ -58,7 +58,7 @@ paths:
         '400':
           description: Invalid ID supplied
         '404':
-          description: Pet not found
+          description: Pet not found?!
         '405':
           description: Validation exception
       security:
