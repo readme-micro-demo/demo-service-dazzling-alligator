@@ -27,7 +27,7 @@ tags:
   - name: user
     description: Operations about user
     externalDocs:
-      description: Find out more about our store
+      description: Find out more about our dave
       url: http://swagger.io
 paths:
   '/pet':
