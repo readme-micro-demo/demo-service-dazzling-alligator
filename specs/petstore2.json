@@ -2,7 +2,8 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1.0.0",
-    "title": "Swagger Petstore",
+    "title": "Swagger Petstore 2",
+    "description": "Aute aute commodo cupidatat magna eu elit cupidatat dolore ipsum reprehenderit eiusmod dolore. Do pariatur id ea aliquip eiusmod labore velit velit deserunt enim. Ad veniam pariatur laborum velit amet eiusmod sint. Labore fugiat veniam fugiat amet minim.",
     "license": {
       "name": "MIT"
     }
